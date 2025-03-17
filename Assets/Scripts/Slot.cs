@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class InventorySlot : MonoBehaviour
+public class Slot : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
